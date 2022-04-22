@@ -1,0 +1,2 @@
+# QRKodOlusturucu
+ 
