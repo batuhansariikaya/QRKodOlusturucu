@@ -29,7 +29,7 @@ namespace QRKodOlusturucu
             {
                 string metin = txtEditMetin.Text;
                 QRCodeGenerator qRCodeGenerator = new QRCodeGenerator();
-                QRCodeData qRCodeData = qRCodeGenerator.CreateQrCode(metin, QRCodeGenerator.ECCLevel.H); // düzeltme katsayısı
+                QRCodeData qRCodeData = qRCodeGenerator.CreateQrCode(metin, QRCodeGenerator.ECCLevel.H); 
                 QRCode code = new QRCode(qRCodeData);
                 Bitmap qrImage = code.GetGraphic(9);
                 pctrQR.Image = qrImage;
