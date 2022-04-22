@@ -12,3 +12,4 @@ Level M = yaklaşık %15 civarında düzeltme sağlar.
 Level Q = yaklaşık %25 civarında düzeltme sağlar.
 Level H = yaklaşık %30 civarında düzeltme sağlar.
 
+![image](https://user-images.githubusercontent.com/66845211/164773104-caa649f9-24b6-47d8-be9f-8f4f3cd62e4c.png)
